@@ -35,7 +35,7 @@ const Navbar = () => {
                     aria-current="page"
                     to="/"
                   >
-                    Home
+                    General
                   </Link>
                 </li>
                 <li className="nav-item dropdown">
